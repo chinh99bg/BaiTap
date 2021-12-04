@@ -1,0 +1,8 @@
+header .col-md-12 {
+    padding: 0;
+}
+
+header .navbar-brand {
+    gap: 0.6rem;
+    font-size: 2rem;
+}
